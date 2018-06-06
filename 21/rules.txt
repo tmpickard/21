@@ -1,0 +1,17 @@
+Player commands(Methods)
+Hit
+-Player takes one more card from the dealer
+
+Stand
+-Player takes no more cards
+-Alternate console commands could be "stand pat", "stick", or "stay"
+
+Double down (not part of MVP)
+-Player increases bet (amount to be decided) in exchange for standing after taking 'one' more card.
+
+Split (Not part of MVP)
+-player's initial cards MUST be identical 
+
+Surrender
+-Decision can only be made when initial cards are dealt;  Cannot be made after player has called for hit/split/double.
+
