@@ -15,3 +15,13 @@ Split (Not part of MVP)
 Surrender
 -Decision can only be made when initial cards are dealt;  Cannot be made after player has called for hit/split/double.
 
+
+
+Dealer responses(AI)
+-Upon player Busting (hand value is greater than 21), or electing to Stand, dealer begins their own hand.
+-Dealer draws cards as if he was a player.  
+-Dealer stops when hand value reaches or exceeds 17.
+-If dealer hand value exceeds 21, player wins
+-If dealer's hand value is equal to player hand value, player 'pushes'.
+-If dealer's hand value is greater than the player's, but does not exceed 21, dealer wins
+
