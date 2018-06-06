@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace deck_of_cards
+namespace _21
 {
     public class Card
     {
